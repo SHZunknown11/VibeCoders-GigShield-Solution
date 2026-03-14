@@ -407,7 +407,7 @@ The platform demonstrates how AI-driven parametric insurance can create scalable
 ## Submission Links
 
 GitHub Repository  
-`TO BE ADDED`
+`https://github.com/SHZunknown11/VibeCoders-GigShield-Solution`
 
 Demo Video  
 `https://youtu.be/TZ51aEOZY-A`
